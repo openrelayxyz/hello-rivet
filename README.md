@@ -1,6 +1,6 @@
 # hello-rivet
 
-Completed example code for the "Hello Rivet" tutorial found at rivet.cloud/docs.
+Completed example code for the "Hello Rivet" tutorial found at [rivet.cloud/docs](https://rivet.cloud/docs).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
