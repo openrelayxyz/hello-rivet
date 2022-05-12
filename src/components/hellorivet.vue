@@ -22,7 +22,7 @@ export default {
             const web3 = new Web3 (Web3.givenProvider || 'https://b33d666174eb46be8eb0bccb3e1f03dd.eth.rpc.rivet.cloud/');
             const chainId= await web3.eth.getChainId();
             ChainID.value = chainId;
-            const accounts = await web3.eth.getAccounts();
+            const accounts = await web3.eth.requestAccounts();
             account.value = accounts[0]
     }
 
