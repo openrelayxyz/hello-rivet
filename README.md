@@ -1,5 +1,7 @@
 # hello-rivet-vue
 
+Completed example code from the 'Hello rivet' tutorial on <a href="https://rivet.cloud/docs">Rivet docs</a> written in Vue.js (vue3 compositional api) using the Web3.js library
+
 ## Project setup
 ```
 npm install
@@ -14,11 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
