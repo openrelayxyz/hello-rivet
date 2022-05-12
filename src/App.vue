@@ -1,14 +1,14 @@
 <template>
-  <HelloWorld msg="Welcome to Your Vue.js App" />
+  <HelloRivet />
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
+import HelloRivet from "./components/hellorivet.vue";
 
 export default {
   name: "App",
   components: {
-    HelloWorld,
+    HelloRivet,
   },
 };
 </script>
